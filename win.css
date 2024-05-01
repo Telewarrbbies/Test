@@ -1,0 +1,74 @@
+
+.navbar{
+  background: white;
+}
+ 
+img.bizlogo{
+  width: 40%;
+  height: 80%;
+}
+
+.jumbotron {
+  text-align: center;
+  background: none;
+}
+
+.carouselForUs{
+  width: 800px;
+}
+.sectionLight{
+  background-color: rgb(150, 150, 150);
+  padding: 2em;
+}
+.sectionDark{
+  background-color: rgba(0, 0, 0, 0.475);
+  padding: 2rem;
+}
+.coolStuffWrapper{
+  margin: 20px;
+}
+button.coolStuffBtn{
+  background-color: aqua;
+  color: #fff;
+  display: block;
+  margin: auto;
+}
+img.Unknown{
+  width: 200px;
+}
+
+h5.modal-title{
+  margin: auto;
+}
+.imgCenter{
+  display: block;
+  margin: auto;
+}
+.btnCenter{
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  width: 56%;
+}
+.footerImg{
+  padding: 15px;
+}
+.fa{
+  margin: 10px;
+}
+.fa-facebook-square{
+  color: #3b5998;
+}
+.fa-google-plus-square{
+  color: red;
+}
+.fa-instagram{
+  color: yellow;
+}
+.socialWrapper{
+  margin: auto;
+}
+.modalLeft{
+  float: left;
+}
